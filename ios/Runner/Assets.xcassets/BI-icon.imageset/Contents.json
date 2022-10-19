@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "BI (Bank Indonesia) Logo (PNG-480p) - FileVector69.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "BI (Bank Indonesia) Logo (PNG-480p) - FileVector69@2x.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "BI (Bank Indonesia) Logo (PNG-480p) - FileVector69@3x.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

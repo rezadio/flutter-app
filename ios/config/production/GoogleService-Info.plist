@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>144530950892-h0p0eeladkkh6ogt0qnp63mviqljqp70.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.144530950892-h0p0eeladkkh6ogt0qnp63mviqljqp70</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD_N9R6v76iwajsbgah05w7kDbfsLAScnU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>144530950892</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.eidupay.mobile</string>
+	<key>PROJECT_ID</key>
+	<string>eidu-245904</string>
+	<key>STORAGE_BUCKET</key>
+	<string>eidu-245904.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:144530950892:ios:341b6349befe16e72833c9</string>
+	<key>DATABASE_URL</key>
+	<string>https://eidu-245904.firebaseio.com</string>
+</dict>
+</plist>

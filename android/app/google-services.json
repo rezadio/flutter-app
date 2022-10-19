@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "144530950892",
+    "firebase_url": "https://eidu-245904.firebaseio.com",
+    "project_id": "eidu-245904",
+    "storage_bucket": "eidu-245904.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144530950892:android:640ad6f8b95320b32833c9",
+        "android_client_info": {
+          "package_name": "com.eidupay.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "144530950892-mrdhil42018h0qgh7tkps62hgqntqgav.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWV-BDciskR2TABR1UNhlota6GKVzmZC0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "144530950892-mrdhil42018h0qgh7tkps62hgqntqgav.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144530950892:android:66ee54a86644f234",
+        "android_client_info": {
+          "package_name": "id.co.eidu.mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "144530950892-mrdhil42018h0qgh7tkps62hgqntqgav.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWV-BDciskR2TABR1UNhlota6GKVzmZC0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "144530950892-mrdhil42018h0qgh7tkps62hgqntqgav.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "171039973335",
+    "project_id": "eidupayflutter",
+    "storage_bucket": "eidupayflutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171039973335:android:42cc1738a5bc6495663592",
+        "android_client_info": {
+          "package_name": "com.eidupay.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "171039973335-4m02fq1q2fbbi9qeumrphin946i3cuc2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaue6Yp3-dE45U8ubcCeXtHQ8AiwY0QhM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "171039973335-4m02fq1q2fbbi9qeumrphin946i3cuc2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "171039973335-54c54n3ale7570t1m4v4ttipv07vhiji.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.eidupay.app.dev"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171039973335:android:2f89602eeedeb3aa663592",
+        "android_client_info": {
+          "package_name": "com.eidupay.app.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "171039973335-4m02fq1q2fbbi9qeumrphin946i3cuc2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaue6Yp3-dE45U8ubcCeXtHQ8AiwY0QhM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "171039973335-4m02fq1q2fbbi9qeumrphin946i3cuc2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "171039973335-54c54n3ale7570t1m4v4ttipv07vhiji.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.eidupay.app.dev"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
